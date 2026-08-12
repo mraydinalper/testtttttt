@@ -39,7 +39,9 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 | 2026-08-13 | İH-02 Mantis Karidesi: 9 GÖRSEL üretildi | **36 görsel birimi** | 0 | **872** |
 | 2026-08-13 | Miro karakter+kanal görselleri (4 görsel) | **16 görsel birimi** | 0 | 856 |
 | 2026-08-13 | İH-03 Şeffaf Kafalı Balık: 8 GÖRSEL (Miro arşivden bedava) | **32 görsel birimi** | 0 | **824** ✅ API ile doğrulandı |
-| 2026-08-13 | MM-01 Miro'nun Kocaman Korkusu: 15 GÖRSEL (hikâye) | **60 görsel birimi** | 0 | **764** |
+| 2026-08-13 | MM-01 Miro'nun Kocaman Korkusu: 15 GÖRSEL (hikâye) | **60 görsel birimi** | 0 | 776 (API) |
+| 2026-08-13 | MM-02 Diş Kurdu Efsanesi: 11 GÖRSEL | **44 birim** | 0 | ~732 |
+| 2026-08-13 | MM-03 Cesaret Aşısı (Ay Perisi'nin hikâyesi): 10 GÖRSEL | **40 birim** | 0 | **692 (API doğrulaması bir sonraki sorguda)** |
 
 **🐾 İLGİNÇ HAYVANLAR SERİSİ kuruldu (Ay Perisi onayı):** #1 Donan Kurbağa · #2 Mantis Karidesi. Format: 40-47 sn belgesel, görsel+Ken Burns, imza ses tasarımı, YOK ARTIK slam. Bölüm maliyeti ~36 görsel birimi → kalan kredi ~24 bölüm daha çıkarır.
 

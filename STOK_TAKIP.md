@@ -13,6 +13,8 @@
 | YA008_donan_kurbaga_FINAL_v3.mp4 | İlginç Hayvanlar #1: Kalbi duran kurbağa (46,9 sn — v3: ses hatası kökten çözüldü, doğrulandı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | IH02_mantis_karidesi_FINAL_v2.mp4 | İlginç Hayvanlar #2: Mantis karidesi (43,3 sn — v2: ses tam, doğrulandı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | MM01_mironun_kocaman_korkusu_FINAL.mp4 | Miro'nun Kocaman Korkusu — hikâye #1 (84 sn, Miro+Bilge Tosi) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → kanala ilk video |
+| MM02_dis_kurdu_efsanesi_FINAL.mp4 | Diş Kurdu Efsanesi — hikâye #2 (80 sn, diş sağlığı) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
+| MM03_cesaret_asisi_FINAL.mp4 | Cesaret Aşısı — hikâye #3, AY PERİSİ SENARYOSU (55 sn, iğne korkusu) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler
