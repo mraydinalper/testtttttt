@@ -1,6 +1,11 @@
-# 📒 Kling AI Kayıt Defteri — Aion & Begüm
+# 📒 "YOK ARTIK" Proje Kayıt Defteri — Aion & Begüm
 
-Bu dosya, Kling AI ile yürütülen video/görsel üretim projesinin tüm kayıtlarını tutar: kredi hareketleri, üretilen içerikler, kullanılan prompt'lar ve paylaşım metinleri.
+Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar: kredi hareketleri, üretilen içerikler, kullanılan prompt'lar, paylaşım metinleri ve strateji kararları. Projeyle ilgili her gelişme buraya işlenir.
+
+## 🏷️ Marka
+
+- **Olay cümlemiz / marka:** "YOK ARTIK! 😱" — her videonun paylaşım metninde geçer, izleyiciyi yorum yapmaya ve abone olmaya teşvik eder.
+- **Format:** 9:16 dikey, 5-10 sn, "gerçek mi AI mı?" tartışması yaratan fotogerçekçi içerik.
 
 ---
 
@@ -24,17 +29,25 @@ Bu dosya, Kling AI ile yürütülen video/görsel üretim projesinin tüm kayıt
 | Tarih | İşlem | Harcanan | Kalan Video | Kalan Görsel |
 |---|---|---|---|---|
 | 2026-08-12 | Paket satın alımı | — | 100 | 1000 |
-| 2026-08-12 | Video #1 üretimi başlatıldı (kesinti tamamlanınca işlenecek) | ⏳ | ⏳ | 1000 |
+| 2026-08-12 | Video #1 üretildi (cam çilek ASMR, pro, 5 sn) | **10 birim** | **90** | 1000 |
+
+**📌 Ölçülen birim maliyet:** kling-v2-1-master · pro · 5 sn = **10 birim/video** → mevcut paketle **9 video daha** üretilebilir.
 
 ## 🎬 Üretilen İçerikler
 
-### Video #1 — Cam Çilek ASMR
-- **Durum:** ⏳ Üretiliyor (task_id: `916589248814387225`)
+### Video #1 — Cam Çilek ASMR ✅ TAMAMLANDI
+- **Durum:** ✅ Üretildi ve teslim edildi — 12 Ağustos 2026 (task_id: `916589248814387225`)
+- **Maliyet:** 10 birim
+- **Dosya:** cam_cilek_asmr.mp4 (6.3 MB)
 - **Model:** kling-v2-1-master · pro mod · 5 sn · 9:16 dikey
 - **Niş:** AI ASMR / satisfying (2026'nın en hızlı büyüyen kısa video kategorisi)
 - **Prompt (EN):** Extreme macro ASMR cinematography, vertical 9:16: a razor-sharp Japanese chef knife slowly presses into and slices through a hyper-realistic translucent strawberry made of polished red glass, sitting on a dark walnut cutting board. The glass strawberry splits with a clean crystalline crack, revealing a glowing juicy interior with tiny glass seeds sparkling. Shallow depth of field, dramatic studio rim lighting, light refracting through the glass in rainbow caustics, ultra slow motion, water droplets on the surface, photorealistic 8k detail, oddly satisfying aesthetic
 - **Negatif prompt:** blurry, distorted, cartoon, text, watermark, low quality, deformed
-- **Paylaşım metni:** "Sence gerçek mi, yapay zekâ mı? 🍓 Yorumlara yaz! Her gün bir tane geliyor → abone ol, kaçırma."
+- **Paylaşım paketi:**
+  - Başlık: "YOK ARTIK! 😱 Bu çilek camdan mı gerçek mi? 🍓"
+  - Açıklama: "Sence gerçek mi, yapay zekâ mı? Yorumlara yaz 👇 'Yok artık!' dedirten videolar her gün burada → abone ol, kaçırma!"
+  - Hashtag: #yokartik #asmr #satisfying #oddlysatisfying #aivideo #keşfet #fyp
+  - Video üstü yazı önerisi (platform overlay'i ile): "YOK ARTIK 😱 gerçek sandım"
 
 ## 🗺️ Sıradaki Konseptler (onay bekliyor)
 
