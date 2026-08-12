@@ -60,6 +60,8 @@ Her promptta zorunlu: ana karakter/nesne · tek net hareket · mekân · kamera 
 - Altyazı: büyük, kısa, max 2 satır, konuşmayla senkron, yazım hatasız
 - Altyazı platform arayüzünün kapattığı alanlardan uzak; video içine başlık/hashtag yazılmaz
 
+**Kurgu kuralı (13 Ağustos, Ay Perisi geri bildirimi):** Son ses segmentinin bitişinden sonra videoda EN AZ 1,5 sn görüntü payı bırakılır; müzik yumuşak fade ile kapanır. Ses asla video sonunda kesilmez.
+
 ## Gerçeklik Kontrolü
 - Konu doğrulanmadan üretim yok; isim/tarih/mesafe/rekor/bilimsel iddia doğrulanır
 - Kesin olmayan bilgi kesinmiş gibi anlatılmaz; başlık gerçekle çelişmez
