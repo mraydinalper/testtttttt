@@ -32,6 +32,9 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 | 2026-08-12 | Video #1 üretildi (cam çilek ASMR, pro, 5 sn) | **10 birim** | **90** | 1000 |
 
 | 2026-08-12 | YA-003 Ölümsüz Denizanası: 5 sahne üretildi (pro, 5'er sn) | **50 birim** | **40** | 1000 |
+| 2026-08-12 | YA-005 Grönland Köpekbalığı: 4 sahne üretildi (pro, 5'er sn) | **40 birim** | **0** ⚠️ | 1000 |
+
+**⚠️ VİDEO PAKETİ TÜKENDİ (12 Ağustos).** Görsel paketi (1000) el değmemiş. HyperFrames hattı bedava çalışmaya devam ediyor. Yeni Kling videosu için paket yüklenmeli.
 
 **📌 Ölçülen birim maliyet:** kling-v2-1-master · pro · 5 sn = **10 birim/sahne**. Kalan 40 birimle 4 sahne (veya std modda daha fazla) üretilebilir.
 

@@ -10,6 +10,12 @@
 | YA003_denizanasi_FINAL_v2.mp4 | Ölümsüz denizanası (Ahmet derin belgesel sesi, ağır çekim, altyazılı, 39 sn — v1 Emel sesi revize edildi) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
+## 🟡 Ses Revizesi Bekleyenler
+
+| Kod/Dosya | Konu | Not |
+|---|---|---|
+| YA005_kopekbaligi_FINAL.mp4 | 400 yıllık Grönland köpekbalığı (41,5 sn) | Görüntü+kurgu tamam; Ay Perisi daha duygusal seslendirme istiyor — iyi TTS gelince yeniden dublaj (Kling maliyeti yok) |
+
 ## 🟡 Ses/Altyazı Bekleyenler (hazır stok DEĞİL)
 
 | Kod/Dosya | Konu | Eksik | Sıradaki işlem |
