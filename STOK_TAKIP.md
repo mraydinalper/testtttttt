@@ -12,7 +12,6 @@
 | YA007_kus_efsanesi_FINAL.mp4 | Yavru kuşa dokunma efsanesi (33,9 sn, müzikli, sarı vurgulu altyazı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | YA008_donan_kurbaga_FINAL_v3.mp4 | İlginç Hayvanlar #1: Kalbi duran kurbağa (46,9 sn — v3: ses hatası kökten çözüldü, doğrulandı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | IH02_mantis_karidesi_FINAL_v2.mp4 | İlginç Hayvanlar #2: Mantis karidesi (43,3 sn — v2: ses tam, doğrulandı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
-| IH03_seffaf_kafali_balik_FINAL.mp4 | Meraklı Miro İH-03: Şeffaf kafalı balık — İLK MİRO BÖLÜMÜ (47,5 sn, çift sesli) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Meraklı Miro kanalına İLK VİDEO olarak yüklenecek |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler
@@ -31,6 +30,7 @@
 
 | Dosya | Neden | Ders |
 |---|---|---|
+| IH03_seffaf_kafali_balik_FINAL.mp4 | Ay Perisi genel olarak beğenmedi ("olmamış") — spesifik hata değil, yaklaşım. | Yeni yöntem: Ay Perisi konuyu kendi anlatımıyla brief'ler, Aion brief'e göre kurar. Brief şablonu dokümante edildi. |
 | video01_cam_cilek_asmr.mp4 | 5 saniyelik tek sahne: çok kısa, hikâyesi yok — kanal formatına (25-45 sn bilgi-hikâye) uymuyor. | Bundan sonra tek sahnelik video üretilmeyecek; her üretim 4-6 sahneli senaryo yapısıyla yapılacak. |
 | YA-002 Kanlı Şelale (senaryo) | Ay Perisi beğenmedi — kanal izleyicisi hayvan içeriğine daha güçlü tepki veriyor. | Konu seçiminde hayvan nişi öncelikli; doğa/yer konuları ikinci planda. |
 
