@@ -7,7 +7,7 @@
 
 | Kod/Dosya | Konu | Proje | Dil | MP4 | Link | YT | TikTok | IG | Sıradaki işlem |
 |---|---|---|---|---|---|---|---|---|---|
-| YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı + fon müziği (ops.) → paketle |
+| YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses/Altyazı Bekleyenler (hazır stok DEĞİL)
 
