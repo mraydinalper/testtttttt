@@ -30,3 +30,19 @@ Statista, WhitelistVideo (2026 çocuk-genç YouTube verileri), Tubics, Pastory, 
 6. Kapak/başlık: basit güçlü kelimeler + sayılar + büyük hayvan yüzü
 7. Okul-paylaşılabilirlik: doğrulanmış bilgi vurgusu, açıklamada öğretmen daveti
 8. YASAK: "made for kids" işareti (gelir düşürür), çocuklara agresif CTA, korku/tıklama tuzağı
+
+## 🔬 Çok Kaynaklı Çapraz Analiz (13 Ağustos 2026 — vidIQ, LoopEx, AutonoLab, OpusClip, TTS Vibes, K12)
+**Doğrulanan tezler:**
+- Hayvan içeriği 2026'nın en viral nişleri arasında (etkileşim + paylaşım oranıyla)
+- Eğitici içerik TikTok'ta ortalamanın %134 üstünde etkileşim alıyor (%9,5); #LearnOnTikTok 858 milyar izlenme
+- Ebeveynlerin %37'si çocuğuna bir konuyu anlatmak için YouTube/TikTok kullanıyor → "okulda işine yarar" konumlandırması doğrulandı
+- Shorts izlenmelerinin %74'ü abone OLMAYANLARDAN geliyor → keşif motoru; kanca kalitesi her şey
+
+**Yeni fırsatlar (rakip analizi):**
+1. Hayvan kanallarının çoğu bilimsel derinlikten yoksun → bizim doğrulanmış-kaynak yaklaşımımız FARKLILAŞTIRICI
+2. Az işlenen alanlar: derin deniz canlıları + soyu tükenmiş hayvanlar → İH serisi için öncelikli konu havuzu
+3. "X olmak neden zor?" anlatı formatı istisnai etkileşim alıyor → İH'ye alternatif bölüm formatı olarak eklenebilir
+4. Shorts + uzun video birlikte yapan kanallar %41 daha hızlı büyüyor → İH bölümleri 5'li derleme (5-8 dk) olarak da yayınlanmalı
+5. TikTok artık KAYDETME davranışını ağır tartıyor → bölüm sonuna "kaydet, arkadaşına göster" mikro-CTA
+6. Algoritma 2026'da "tatmin"i ölçüyor: tıklama tuzağı başlıklar cezalandırılıyor → dürüst başlık kuralımız artık avantaj
+7. Kanca çeşitliliği şart: hep aynı kalıp = kalıp yorgunluğu → şok / soru / hikâye fragmanı rotasyonu
