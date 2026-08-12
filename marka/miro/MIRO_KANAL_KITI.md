@@ -17,10 +17,11 @@
 ```
 Meraklı Miro
 ```
-**Tanıtıcı (handle) önerisi:**
+**Tanıtıcı (handle) — KESİNLEŞTİ (13 Ağustos 2026):**
 ```
-@meraklimiro
+@meraklimirotv
 ```
+(meraklimiro doluydu; Ay Perisi kanal kurulumunda @meraklimirotv aldı — profil fotoğrafı yüklendi ✅)
 > Karar notu: Ay Perisi bütün konuları kapsayan genel bir isim istedi. "Meraklı Miro" tüm serileri şemsiye altına alır: "Meraklı Miro: İlginç Hayvanlar", "Meraklı Miro: Uzayın Sırları" vb.
 **Kanal açıklaması:**
 ```
