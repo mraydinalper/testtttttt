@@ -14,6 +14,7 @@
 | Dosya | Neden | Ders |
 |---|---|---|
 | video01_cam_cilek_asmr.mp4 | 5 saniyelik tek sahne: çok kısa, hikâyesi yok — kanal formatına (25-45 sn bilgi-hikâye) uymuyor. | Bundan sonra tek sahnelik video üretilmeyecek; her üretim 4-6 sahneli senaryo yapısıyla yapılacak. |
+| YA-002 Kanlı Şelale (senaryo) | Ay Perisi beğenmedi — kanal izleyicisi hayvan içeriğine daha güçlü tepki veriyor. | Konu seçiminde hayvan nişi öncelikli; doğa/yer konuları ikinci planda. |
 
 ## ⏳ Kontrol Edilecekler (dosya görülmeden konu/durum YAZILMAZ)
 
