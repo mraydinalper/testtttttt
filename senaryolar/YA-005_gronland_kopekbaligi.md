@@ -1,6 +1,6 @@
 # YA-005 — 400 Yıllık Köpekbalığı (Grönland Köpekbalığı)
 
-**Durum:** Senaryo (video ÜRETİLMEDİ, kredi harcanmadı — "Pişir" onayı bekleniyor)
+**Durum:** ÜRETİMDE — Pişir onayı alındı (12 Ağustos 2026). 4 sahne Kling'de, Ahmet seslendirmesi üretildi (41 sn).
 **Proje:** Yok Artık · TR · Hedef: ~34-36 sn final · 9:16
 **Niş:** Hayvan (kanalın en güçlü alanı; denizanası/ahtapot/bal porsuğu ile çakışmıyor)
 
