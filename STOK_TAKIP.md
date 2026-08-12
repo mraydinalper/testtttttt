@@ -17,6 +17,7 @@
 | MM03_cesaret_asisi_v2.mp4 | Cesaret Aşısı v2 — açılış yenilendi (56 sn; doktor öncesi düzeltildi) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
 | MM04_gok_gurultusu_FINAL.mp4 | Gök Gürültüsü ve Dev — Ay Perisi hikâyesi (62,5 sn, yağmur+gök SFX) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
 | GY01_gece_yarisi_fragman.mp4 | GECE YARISI fragmanı — gizem dizisi işareti (38 sn, diyalogsuz sinematik) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
+| MM05_gunduz_ayi_FINAL.mp4 | Miro ve Gündüz Ayı — KANAL AÇILIŞ ADAYI (77,5 sn; dünyanın 1 numaralı çocuk sorusu + mendil mitolojisi) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → İLK YÜKLEME |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler
