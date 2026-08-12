@@ -64,6 +64,12 @@ Her promptta zorunlu: ana karakter/nesne · tek net hareket · mekân · kamera 
 
 **Ses hattı kuralı (13 Ağustos, kök neden çözümü):** loudnorm filtresi mikste kuyruğu kestiği için YASAK — yerine volume + alimiter kullanılır. Her final videoda silencedetect ile SON KONUŞMANIN GERÇEK BİTİŞİ ölçülür; video süresi = konuşma bitişi + ≥2 sn. Bu ölçüm yapılmadan video teslim edilmez (zorunlu QC adımı).
 
+**🎬 "GÖR VE DUY" YÖNTEMİ (13 Ağustos — Ay Perisi onaylı, TÜM üretimlerde zorunlu):**
+1. Her cümle = bir görsel; görsel o cümleden üretilir; ses ekranda olmayanı ANLATMAZ.
+2. Kesme cümle sınırında; geçişler yumuşak çözülme (xfade ~0,6 sn) — sert kesme yok.
+3. Diyalog yerine belgesel anlatımı (onaylı anlatıcı: Emel +25Hz +10% masalcı ton); "Nam!" gibi yansıma kelimeler YASAK.
+4. Final kalıbı: YOK ARTIK slam + "Sen de yok artık diyorsan… abone olmayı unutma!"
+
 ## Gerçeklik Kontrolü
 - Konu doğrulanmadan üretim yok; isim/tarih/mesafe/rekor/bilimsel iddia doğrulanır
 - Kesin olmayan bilgi kesinmiş gibi anlatılmaz; başlık gerçekle çelişmez

@@ -17,7 +17,7 @@
 | MM03_cesaret_asisi_v2.mp4 | Cesaret Aşısı v2 — açılış yenilendi (56 sn; doktor öncesi düzeltildi) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
 | MM04_gok_gurultusu_FINAL.mp4 | Gök Gürültüsü ve Dev — Ay Perisi hikâyesi (62,5 sn, yağmur+gök SFX) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
 | GY01_gece_yarisi_fragman.mp4 | GECE YARISI fragmanı — gizem dizisi işareti (38 sn, diyalogsuz sinematik) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
-| MM05_gunduz_ayi_FINAL.mp4 | Miro ve Gündüz Ayı — KANAL AÇILIŞ ADAYI (77,5 sn; dünyanın 1 numaralı çocuk sorusu + mendil mitolojisi) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → İLK YÜKLEME |
+| AX01_axolotl_FINAL.mp4 | Axolotl belgeseli — İLK GÖR VE DUY videosu (42 sn) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → kanal açılışı adayı |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler
@@ -36,6 +36,7 @@
 
 | Dosya | Neden | Ders |
 |---|---|---|
+| MM05_gunduz_ayi_FINAL.mp4 | Ay Perisi: ses ekrandakini anlatmıyor + geçişler sert. | Kök çözüm: GÖR VE DUY yöntemi standartlaştı (cümle=görsel, xfade geçiş). |
 | IH03_seffaf_kafali_balik_FINAL.mp4 | Ay Perisi genel olarak beğenmedi ("olmamış") — spesifik hata değil, yaklaşım. | Yeni yöntem: Ay Perisi konuyu kendi anlatımıyla brief'ler, Aion brief'e göre kurar. Brief şablonu dokümante edildi. |
 | video01_cam_cilek_asmr.mp4 | 5 saniyelik tek sahne: çok kısa, hikâyesi yok — kanal formatına (25-45 sn bilgi-hikâye) uymuyor. | Bundan sonra tek sahnelik video üretilmeyecek; her üretim 4-6 sahneli senaryo yapısıyla yapılacak. |
 | YA-002 Kanlı Şelale (senaryo) | Ay Perisi beğenmedi — kanal izleyicisi hayvan içeriğine daha güçlü tepki veriyor. | Konu seçiminde hayvan nişi öncelikli; doğa/yer konuları ikinci planda. |
