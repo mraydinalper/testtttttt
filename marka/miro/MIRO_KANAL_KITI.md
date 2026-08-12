@@ -13,17 +13,18 @@
 - **Sesi:** Emel (tiz ayar: pitch +25Hz, rate +15%) — anlatıcı Ahmet ile atışma dinamiği.
 
 ## YouTube Kanal Bilgileri (kopyala-yapıştır)
-**Kanal adı:**
+**Kanal adı (GÜNCEL — 13 Ağustos, genel marka kararı):**
 ```
-Miro ile İlginç Hayvanlar
+Meraklı Miro
 ```
 **Tanıtıcı (handle) önerisi:**
 ```
-@miroilehayvanlar
+@meraklimiro
 ```
+> Karar notu: Ay Perisi bütün konuları kapsayan genel bir isim istedi. "Meraklı Miro" tüm serileri şemsiye altına alır: "Meraklı Miro: İlginç Hayvanlar", "Meraklı Miro: Uzayın Sırları" vb.
 **Kanal açıklaması:**
 ```
-Merhaba, ben Miro! 🐾 Meraklı bir mirket yavrusuyum ve dünyanın en ilginç hayvanlarını keşfe çıktım.
+Merhaba, ben Miro! 🐾 Meraklı bir mirket yavrusuyum ve dünyanın bütün sırlarını keşfe çıktım: hayvanlar, uzay, tarih, vücudumuz…
 Kalbi durup yeniden çalışan kurbağalar, mermi hızında yumruk atan karidesler, ölümsüz denizanaları… Hepsi gerçek, hepsi bilimle doğrulanmış! 🔬
 Her bölümde "YOK ARTIK!" dedirten bir hayvanla tanışıyoruz.
 Sıradaki hayvanı tahmin et, yorumlara yaz! Yeni bölümleri kaçırmamak için abone ol 🧡
