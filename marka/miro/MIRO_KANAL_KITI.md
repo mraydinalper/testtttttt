@@ -22,6 +22,7 @@ Meraklı Miro
 @meraklimirotv
 ```
 (meraklimiro doluydu; Ay Perisi kanal kurulumunda @meraklimirotv aldı — profil fotoğrafı yüklendi ✅)
+> 🎉 **KANAL AÇILDI — 13 Ağustos 2026, 01:08 (TRT):** youtube.com/@meraklimirotv · profil fotoğrafı yüklü · kapak+açıklama+hedef kitle ayarı Ay Perisi tarafından tamamlanıyor.
 > Karar notu: Ay Perisi bütün konuları kapsayan genel bir isim istedi. "Meraklı Miro" tüm serileri şemsiye altına alır: "Meraklı Miro: İlginç Hayvanlar", "Meraklı Miro: Uzayın Sırları" vb.
 **Kanal açıklaması:**
 ```
