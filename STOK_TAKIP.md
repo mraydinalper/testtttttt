@@ -7,7 +7,13 @@
 
 | Kod/Dosya | Konu | Proje | Dil | MP4 | Link | YT | TikTok | IG | Sıradaki işlem |
 |---|---|---|---|---|---|---|---|---|---|
-| (boş — stok, Ay Perisi'nin dosyaları incelendikten sonra kesinleşecek) | | | | | | | | | |
+| YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı + fon müziği (ops.) → paketle |
+
+## 🟡 Ses/Altyazı Bekleyenler (hazır stok DEĞİL)
+
+| Kod/Dosya | Konu | Eksik | Sıradaki işlem |
+|---|---|---|---|
+| YA003_olumsuz_denizanasi_kurgu.mp4 | Ölümsüz denizanası (25 sn, 5 sahne Kling) | Türkçe seslendirme + altyazı | Ses: CapCut'ta Ay Perisi ekler VEYA TTS anahtarı verilirse Aion ekler |
 
 ## 🗑️ İptal/Çöp
 
