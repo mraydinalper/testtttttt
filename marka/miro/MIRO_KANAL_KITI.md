@@ -57,3 +57,9 @@ ilginç hayvanlar, hayvan belgeseli, çocuklar için bilim, hayvanlar alemi, eğ
 ### Paket C — Miro Keşfediyor
 - Handle: @mirokesfediyor
 - Açıklama farkı: "Miro her bölümde yeni bir şey keşfediyor. Bugün sıra nerede?"
+
+## Kanal Açıklaması Seçenekleri (13 Ağustos — Ay Perisi karşılaştırması sonrası)
+**Seçenek A (Aion önerisi — hibrit):** "Meraklı Miro'yla keşfe hazır mısın? 🐾 / Ben Miro! Hayvanların şaşırtıcı dünyasını, doğanın gizemlerini ve 'YOK ARTIK!' dedirten gerçekleri senin için keşfediyorum. / Hepsi gerçek, hepsi bilimle doğrulanmış! 🔬 / Sıradaki konuyu tahmin et, yorumlara yaz — doğru bilenlere selam yolluyorum! / Yeni maceraları kaçırmamak için abone ol 🧡"
+**Seçenek B (kısa):** "Ben Miro! 🐾 Küçük bir mirketim ama kocaman sorularım var…"
+**Seçenek C (aile/öğretmen vurgulu):** "…aileler güvenir, öğretmenler sınıfta izletir."
+Ay Perisi'nin kendi taslağı da değerlendirildi: sıcak ton alındı, Miro'nun birinci tekil sesi + YOK ARTIK markası + bilim vurgusu eklendi.
