@@ -47,3 +47,11 @@ ilginç hayvanlar, hayvan belgeseli, çocuklar için bilim, hayvanlar alemi, eğ
 - İlk hafta: İH-01 Kurbağa + İH-02 Karides buraya yüklenir (Yok Artık'ta YAYINLANMAMIŞLARSA — çift yayın yapılmaz, tek kanal seçilir)
 - **KARAR GEREKLİ (Ay Perisi):** İH serisi artık SADECE Miro kanalında mı yayınlanacak, yoksa Yok Artık'ta mı kalacak? Öneri: hayvan serisi TAMAMEN Miro kanalına; Yok Artık efsane çürütme + genel konularda devam eder. Böylece iki kanal birbirini yemez.
 - Yayın saati: hafta içi 16:30-17:00 (okul çıkışı)
+
+## Yedek Kanal Adı Paketleri (13 Ağustos — Ay Perisi seçimi Aion'a bıraktı, karar: Meraklı Miro)
+### Paket B — Miro'nun Dünyası
+- Handle: @mironundunyasi
+- Açıklama farkı: "Miro'nun dünyasına hoş geldin! Burada her şey merak dolu…"
+### Paket C — Miro Keşfediyor
+- Handle: @mirokesfediyor
+- Açıklama farkı: "Miro her bölümde yeni bir şey keşfediyor. Bugün sıra nerede?"
