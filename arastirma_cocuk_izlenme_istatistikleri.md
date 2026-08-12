@@ -20,3 +20,13 @@
 
 ## Kaynaklar
 Statista, WhitelistVideo (2026 çocuk-genç YouTube verileri), Tubics, Pastory, Ticimax, Marketing Türkiye, YouTube Kültür ve Trendler Raporu 2025.
+
+## 🧲 Çocukları Kanala Çekme Taktikleri (13 Ağustos 2026)
+1. İlk 2 sn: hayvan yüzü yakın plan + şaşırtıcı iddia
+2. Seri numarası başlıkta/kapakta; bölüm sonu "sıradaki hayvanı tahmin et" → tahmin yorumları + geri dönüş
+3. Yorum soruları çocuk-basitliğinde (tek kelimeyle cevaplanabilir)
+4. Tekrarlanan marka öğeleri: YOK ARTIK slam + bölüm başına bir ses imzası
+5. Yayın saati: hayvan serisi hafta içi 16:30-17:00 (okul çıkışı); genel kitle 19:30
+6. Kapak/başlık: basit güçlü kelimeler + sayılar + büyük hayvan yüzü
+7. Okul-paylaşılabilirlik: doğrulanmış bilgi vurgusu, açıklamada öğretmen daveti
+8. YASAK: "made for kids" işareti (gelir düşürür), çocuklara agresif CTA, korku/tıklama tuzağı
