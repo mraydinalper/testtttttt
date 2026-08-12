@@ -36,6 +36,9 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 | 2026-08-12 | YA-006 Sakız Efsanesi: 6 GÖRSEL üretildi (kling-v2 image) | **24 görsel birimi** | 0 | **976** |
 | 2026-08-12 | YA-007 Kuş Efsanesi: 8 GÖRSEL üretildi (kling-v2 image) | **32 görsel birimi** | 0 | **944** |
 | 2026-08-12 | YA-008 Donan Kurbağa belgeseli: 9 GÖRSEL üretildi | **36 görsel birimi** | 0 | **908** |
+| 2026-08-13 | İH-02 Mantis Karidesi: 9 GÖRSEL üretildi | **36 görsel birimi** | 0 | **872** |
+
+**🐾 İLGİNÇ HAYVANLAR SERİSİ kuruldu (Ay Perisi onayı):** #1 Donan Kurbağa · #2 Mantis Karidesi. Format: 40-47 sn belgesel, görsel+Ken Burns, imza ses tasarımı, YOK ARTIK slam. Bölüm maliyeti ~36 görsel birimi → kalan kredi ~24 bölüm daha çıkarır.
 
 **📌 Görsel birim maliyeti ölçüldü:** 1 görsel = 4 birim → kalan 976 birimle ~244 görsel. GÖRSEL+Ken Burns hattı, video kredisi olmadan video üretmeyi sağlıyor (YA-006 böyle üretildi).
 

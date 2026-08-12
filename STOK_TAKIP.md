@@ -11,6 +11,7 @@
 | YA006_sakiz_efsanesi_FINAL.mp4 | Sakız 7 yıl midede kalır mı? (efsane çürütme, 43,8 sn, sesli+altyazılı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | YA007_kus_efsanesi_FINAL.mp4 | Yavru kuşa dokunma efsanesi (33,9 sn, müzikli, sarı vurgulu altyazı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | YA008_donan_kurbaga_FINAL_v2.mp4 | İlginç Hayvanlar #1: Kalbi duran kurbağa (46,9 sn — v2: ses sonu düzeltildi) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
+| IH02_mantis_karidesi_FINAL.mp4 | İlginç Hayvanlar #2: Mantis karidesi (43,3 sn, çat efektli) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler
