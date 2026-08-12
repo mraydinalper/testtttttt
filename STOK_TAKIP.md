@@ -7,13 +7,14 @@
 
 | Kod/Dosya | Konu | Proje | Dil | MP4 | Link | YT | TikTok | IG | Sıradaki işlem |
 |---|---|---|---|---|---|---|---|---|---|
+| YA003_denizanasi_FINAL.mp4 | Ölümsüz denizanası (seslendirme Emel + altyazı gömülü, 29,5 sn) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses/Altyazı Bekleyenler (hazır stok DEĞİL)
 
 | Kod/Dosya | Konu | Eksik | Sıradaki işlem |
 |---|---|---|---|
-| YA003_olumsuz_denizanasi_kurgu.mp4 | Ölümsüz denizanası (25 sn, 5 sahne Kling) | Türkçe seslendirme + altyazı | Ses: CapCut'ta Ay Perisi ekler VEYA TTS anahtarı verilirse Aion ekler |
+| (boş) | | | |
 
 ## 🗑️ İptal/Çöp
 
