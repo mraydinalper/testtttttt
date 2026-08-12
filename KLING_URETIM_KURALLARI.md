@@ -53,6 +53,8 @@ Her promptta zorunlu: ana karakter/nesne · tek net hareket · mekân · kamera 
 - Kanlı/rahatsız edici/platform ihlali görüntü üretilmez
 
 ## Ses ve Altyazı
+
+**Onaylı ses profili (12 Ağustos 2026):** tr-TR-AhmetNeural · pitch -12Hz · rate -4/-6% · dramatik "..." duraklamaları · final cümlesi +2% tempo. Emel sesi yeterince gizemli bulunmadı (Ay Perisi geri bildirimi). Gizem gerektiren videolarda görüntü %25 ağır çekime alınabilir.
 - Türkçe seslendirme doğal, enerjik, merak uyandırıcı; robotik ton yok
 - Anlatıcı sesi videolar arasında sabit; müzik sesi bastırmaz
 - Altyazı: büyük, kısa, max 2 satır, konuşmayla senkron, yazım hatasız
