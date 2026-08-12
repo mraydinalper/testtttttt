@@ -1,6 +1,9 @@
 # YA-003 — Ölümsüz Denizanası (Turritopsis dohrnii)
 
-**Durum:** Üretimde — 5 sahne Kling'e gönderildi (12 Ağustos 2026, task ID'ler: 916595714635993156 / 916595719502045266 / 916595728737239066 / 916595733200642143 / 916595737764036640)
+**Durum:** Kurgulu görüntü HAZIR (ses/altyazı bekliyor) — 12 Ağustos 2026
+- 5 sahne üretildi (50 birim), ffmpeg ile birleştirildi: 25,2 sn · 1080×1920 · `videolar/YA003_olumsuz_denizanasi_kurgu.mp4`
+- Kalite kontrol: karakter tutarlılığı ✅ anatomi ✅ format 9:16 ✅ filigran yok ✅
+- HAZIR STOK DEĞİL: Türkçe seslendirme + altyazı eklenince hazır stok sayılacak (kural gereği)
 **Proje:** Yok Artık · TR · Hedef süre: ~35-38 sn · 9:16
 **Niş:** Hayvanların şaşırtıcı özellikleri (kanalın güçlü alanı; bal porsuğu ve ahtapot ile ÇAKIŞMIYOR)
 

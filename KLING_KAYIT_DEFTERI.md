@@ -31,7 +31,9 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 | 2026-08-12 | Paket satın alımı | — | 100 | 1000 |
 | 2026-08-12 | Video #1 üretildi (cam çilek ASMR, pro, 5 sn) | **10 birim** | **90** | 1000 |
 
-**📌 Ölçülen birim maliyet:** kling-v2-1-master · pro · 5 sn = **10 birim/video** → mevcut paketle **9 video daha** üretilebilir.
+| 2026-08-12 | YA-003 Ölümsüz Denizanası: 5 sahne üretildi (pro, 5'er sn) | **50 birim** | **40** | 1000 |
+
+**📌 Ölçülen birim maliyet:** kling-v2-1-master · pro · 5 sn = **10 birim/sahne**. Kalan 40 birimle 4 sahne (veya std modda daha fazla) üretilebilir.
 
 ## 🎬 Üretilen İçerikler
 
