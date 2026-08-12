@@ -1,0 +1,48 @@
+# 🐾 MİRO — Karakter Kimliği & YouTube Kanal Kurulum Kiti
+
+> Ay Perisi onayı: 13 Ağustos 2026. Miro artık resmî kanal karakteri.
+
+## Karakter Kimliği (her üretimde birebir kullanılacak)
+- **İsim:** Miro
+- **Tür:** Mirket yavrusu (meerkat)
+- **İmza görünüm (İngilizce sabit tanım):** "an adorable 3D animated young meerkat character with big curious amber eyes, soft tan fur, a small green explorer scarf around its neck, expressive cartoon face, Pixar animation style"
+- **İmza aksesuar:** Yeşil kâşif fuları (asla değişmez)
+- **Hikâyesi:** Kolonisinden ayrılıp dünyanın en ilginç hayvanlarını keşfe çıkan meraklı minik kâşif.
+- **Karakteri:** Meraklı, iyimser, kolay şaşıran, hafif sakar. Asla kaba/korkutucu değil.
+- **İmza replikleri:** Açılış: "Bugün nereye gidiyoruz biliyor musun?" · Şok anı: "YOK ARTIK! Gerçekten mi?!" · Kapanış: "Sıradaki hayvanı tahmin et, yorumlara yaz!"
+- **Sesi:** Emel (tiz ayar: pitch +25Hz, rate +15%) — anlatıcı Ahmet ile atışma dinamiği.
+
+## YouTube Kanal Bilgileri (kopyala-yapıştır)
+**Kanal adı:**
+```
+Miro ile İlginç Hayvanlar
+```
+**Tanıtıcı (handle) önerisi:**
+```
+@miroilehayvanlar
+```
+**Kanal açıklaması:**
+```
+Merhaba, ben Miro! 🐾 Meraklı bir mirket yavrusuyum ve dünyanın en ilginç hayvanlarını keşfe çıktım.
+Kalbi durup yeniden çalışan kurbağalar, mermi hızında yumruk atan karidesler, ölümsüz denizanaları… Hepsi gerçek, hepsi bilimle doğrulanmış! 🔬
+Her bölümde "YOK ARTIK!" dedirten bir hayvanla tanışıyoruz.
+Sıradaki hayvanı tahmin et, yorumlara yaz! Yeni bölümleri kaçırmamak için abone ol 🧡
+Öğretmenler: videolar sınıfta izletmek için uygundur ve güvenilir kaynaklarla hazırlanır.
+```
+**Kanal anahtar kelimeleri:**
+```
+ilginç hayvanlar, hayvan belgeseli, çocuklar için bilim, hayvanlar alemi, eğitici video, yok artık, ilginç bilgiler, miro
+```
+
+## Kurulum Adımları (5 dakika)
+1. youtube.com → sağ üst profil → **Ayarlar → Yeni kanal oluştur** (mevcut hesabına bağlı ikinci kanal olarak açılır, "Yok Artık"a dokunmaz)
+2. Kanal adı: **Miro ile İlginç Hayvanlar** → oluştur
+3. YouTube Studio → **Özelleştirme**: profil fotoğrafı = `miro_profil_800.png`, banner = `miro_banner_2560x1440.png`, açıklama + anahtar kelimeler = yukarıdan yapıştır
+4. Handle: @miroilehayvanlar (doluysa: @miroilegilkinchayvanlar yerine @mirohayvanlar dene)
+5. **Ayarlar → Kanal → "Hedef kitle": "Hayır, kanalımı çocuklara özel olarak ayarlama"** (video bazında da böyle — gelir için kritik!)
+6. Ülke: Türkiye · Dil: Türkçe
+
+## Yayın Stratejisi
+- İlk hafta: İH-01 Kurbağa + İH-02 Karides buraya yüklenir (Yok Artık'ta YAYINLANMAMIŞLARSA — çift yayın yapılmaz, tek kanal seçilir)
+- **KARAR GEREKLİ (Ay Perisi):** İH serisi artık SADECE Miro kanalında mı yayınlanacak, yoksa Yok Artık'ta mı kalacak? Öneri: hayvan serisi TAMAMEN Miro kanalına; Yok Artık efsane çürütme + genel konularda devam eder. Böylece iki kanal birbirini yemez.
+- Yayın saati: hafta içi 16:30-17:00 (okul çıkışı)
