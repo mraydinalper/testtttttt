@@ -62,6 +62,8 @@ Her promptta zorunlu: ana karakter/nesne · tek net hareket · mekân · kamera 
 
 **Kurgu kuralı (13 Ağustos, Ay Perisi geri bildirimi):** Son ses segmentinin bitişinden sonra videoda EN AZ 1,5 sn görüntü payı bırakılır; müzik yumuşak fade ile kapanır. Ses asla video sonunda kesilmez.
 
+**Ses hattı kuralı (13 Ağustos, kök neden çözümü):** loudnorm filtresi mikste kuyruğu kestiği için YASAK — yerine volume + alimiter kullanılır. Her final videoda silencedetect ile SON KONUŞMANIN GERÇEK BİTİŞİ ölçülür; video süresi = konuşma bitişi + ≥2 sn. Bu ölçüm yapılmadan video teslim edilmez (zorunlu QC adımı).
+
 ## Gerçeklik Kontrolü
 - Konu doğrulanmadan üretim yok; isim/tarih/mesafe/rekor/bilimsel iddia doğrulanır
 - Kesin olmayan bilgi kesinmiş gibi anlatılmaz; başlık gerçekle çelişmez
