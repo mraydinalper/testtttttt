@@ -7,7 +7,13 @@
 
 | Kod/Dosya | Konu | Proje | Dil | MP4 | Link | YT | TikTok | IG | Sıradaki işlem |
 |---|---|---|---|---|---|---|---|---|---|
-| video01_cam_cilek_asmr.mp4 | Cam çilek ASMR (Kling üretimi, depoda arşivli) | Yok Artık | TR (sözsüz) | ✅ | ✅ (depo) | — | — | — | Yayın sırası/saati belirlenecek |
+| (boş — stok, Ay Perisi'nin dosyaları incelendikten sonra kesinleşecek) | | | | | | | | | |
+
+## 🗑️ İptal/Çöp
+
+| Dosya | Neden | Ders |
+|---|---|---|
+| video01_cam_cilek_asmr.mp4 | 5 saniyelik tek sahne: çok kısa, hikâyesi yok — kanal formatına (25-45 sn bilgi-hikâye) uymuyor. | Bundan sonra tek sahnelik video üretilmeyecek; her üretim 4-6 sahneli senaryo yapısıyla yapılacak. |
 
 ## ⏳ Kontrol Edilecekler (dosya görülmeden konu/durum YAZILMAZ)
 
