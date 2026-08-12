@@ -1,6 +1,6 @@
 # YA-003 — Ölümsüz Denizanası (Turritopsis dohrnii)
 
-**Durum:** Senaryo (video ÜRETİLMEDİ, kredi harcanmadı)
+**Durum:** Üretimde — 5 sahne Kling'e gönderildi (12 Ağustos 2026, task ID'ler: 916595714635993156 / 916595719502045266 / 916595728737239066 / 916595733200642143 / 916595737764036640)
 **Proje:** Yok Artık · TR · Hedef süre: ~35-38 sn · 9:16
 **Niş:** Hayvanların şaşırtıcı özellikleri (kanalın güçlü alanı; bal porsuğu ve ahtapot ile ÇAKIŞMIYOR)
 
