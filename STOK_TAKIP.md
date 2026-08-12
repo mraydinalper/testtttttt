@@ -8,6 +8,7 @@
 | Kod/Dosya | Konu | Proje | Dil | MP4 | Link | YT | TikTok | IG | Sıradaki işlem |
 |---|---|---|---|---|---|---|---|---|---|
 | YA003_denizanasi_FINAL_v2.mp4 | Ölümsüz denizanası (Ahmet derin belgesel sesi, ağır çekim, altyazılı, 39 sn — v1 Emel sesi revize edildi) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
+| YA006_sakiz_efsanesi_FINAL.mp4 | Sakız 7 yıl midede kalır mı? (efsane çürütme, 43,8 sn, sesli+altyazılı) | Yok Artık | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → paketle |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler

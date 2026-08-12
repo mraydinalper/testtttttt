@@ -33,6 +33,9 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 
 | 2026-08-12 | YA-003 Ölümsüz Denizanası: 5 sahne üretildi (pro, 5'er sn) | **50 birim** | **40** | 1000 |
 | 2026-08-12 | YA-005 Grönland Köpekbalığı: 4 sahne üretildi (pro, 5'er sn) | **40 birim** | **0** ⚠️ | 1000 |
+| 2026-08-12 | YA-006 Sakız Efsanesi: 6 GÖRSEL üretildi (kling-v2 image) | **24 görsel birimi** | 0 | **976** |
+
+**📌 Görsel birim maliyeti ölçüldü:** 1 görsel = 4 birim → kalan 976 birimle ~244 görsel. GÖRSEL+Ken Burns hattı, video kredisi olmadan video üretmeyi sağlıyor (YA-006 böyle üretildi).
 
 **⚠️ VİDEO PAKETİ TÜKENDİ (12 Ağustos).** Görsel paketi (1000) el değmemiş. HyperFrames hattı bedava çalışmaya devam ediyor. Yeni Kling videosu için paket yüklenmeli.
 
