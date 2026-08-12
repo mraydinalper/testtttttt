@@ -38,7 +38,7 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 ### Video #1 — Cam Çilek ASMR ✅ TAMAMLANDI
 - **Durum:** ✅ Üretildi ve teslim edildi — 12 Ağustos 2026 (task_id: `916589248814387225`)
 - **Maliyet:** 10 birim
-- **Dosya:** cam_cilek_asmr.mp4 (6.3 MB)
+- **Dosya:** `videolar/video01_cam_cilek_asmr.mp4` (6.3 MB, depoda arşivli)
 - **Model:** kling-v2-1-master · pro mod · 5 sn · 9:16 dikey
 - **Niş:** AI ASMR / satisfying (2026'nın en hızlı büyüyen kısa video kategorisi)
 - **Prompt (EN):** Extreme macro ASMR cinematography, vertical 9:16: a razor-sharp Japanese chef knife slowly presses into and slices through a hyper-realistic translucent strawberry made of polished red glass, sitting on a dark walnut cutting board. The glass strawberry splits with a clean crystalline crack, revealing a glowing juicy interior with tiny glass seeds sparkling. Shallow depth of field, dramatic studio rim lighting, light refracting through the glass in rainbow caustics, ultra slow motion, water droplets on the surface, photorealistic 8k detail, oddly satisfying aesthetic
