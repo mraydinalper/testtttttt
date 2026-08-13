@@ -20,6 +20,7 @@
 | AX01_axolotl_FINAL.mp4 | Axolotl belgeseli — İLK GÖR VE DUY videosu (42 sn) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → kanal açılışı adayı |
 | YO01_yanki_odasi_FINAL.mp4 | Yankı Odası — bağımsız gizem hikâyesi (69 sn, DEVAM EDECEK; resmî kapı dizisi DK-01 ile başladı) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
 | DK01_gizem_kapilari_B1_FINAL.mp4 | 🚪 GİZEM KAPILARI · Bölüm 1 — Duvarın İçindeki Kapı (63 sn, jenerikli, Miro anlatıyor; Ay Perisi: "güzel olmuş") | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | ONAYLI ✅ → Paketle bekliyor |
+| DK02_gizem_kapilari_B2_FINAL.mp4 | 🚪 GİZEM KAPILARI · Bölüm 2 — Aynanın İçindeki Kapı (59 sn, jenerikli; kolye yeniden yanar → ayna kapısı, ters dünya, iki yeşil göz) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler
