@@ -19,7 +19,7 @@
 | GY01_gece_yarisi_fragman.mp4 | GECE YARISI fragmanı — gizem dizisi işareti (38 sn, diyalogsuz sinematik) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
 | AX01_axolotl_FINAL.mp4 | Axolotl belgeseli — İLK GÖR VE DUY videosu (42 sn) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → kanal açılışı adayı |
 | YO01_yanki_odasi_FINAL.mp4 | Yankı Odası — bağımsız gizem hikâyesi (69 sn, DEVAM EDECEK; resmî kapı dizisi DK-01 ile başladı) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
-| DK01_gizem_kapilari_B1_FINAL.mp4 | 🚪 GİZEM KAPILARI · Bölüm 1 — Duvarın İçindeki Kapı (63 sn, jenerikli, Miro anlatıyor; Ay Perisi: "güzel olmuş") | Meraklı Miro | TR | ✅ | ✅ (depo) | 📅 13 Ağu 20:00 | — | — | PAKET TESLİM EDİLDİ ✅ — yayın BUGÜN 20:00 TRT (Ay Perisi kararı; 19:30 melas sonrası). "Yayınlandı" bekleniyor |
+| DK01_gizem_kapilari_B1_FINAL.mp4 | 🚪 GİZEM KAPILARI · Bölüm 1 — Duvarın İçindeki Kapı (63 sn, jenerikli, Miro anlatıyor) | Meraklı Miro | TR | ✅ | ✅ (depo) | ✅ 13 Ağu ~20:00 | — | — | 🔴 YOUTUBE'DA YAYINDA — kanalın İLK videosu! TikTok+IG opsiyonel bekliyor; 24 saat performans takibi başladı |
 | DK02_gizem_kapilari_B2_FINAL.mp4 | 🚪 GİZEM KAPILARI · Bölüm 2 — Aynanın İçindeki Kapı (59 sn, jenerikli; kolye yeniden yanar → ayna kapısı, ters dünya, iki yeşil göz) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | ONAYLI ✅ ("güzel, 2 bölüm tamam") → Paketle bekliyor |
 | DK03_gizem_kapilari_B3_FINAL.mp4 | 🚪 GİZEM KAPILARI · Bölüm 3 — Kapıların Bekçisi (70 sn; yeşil gözler = yaşlı Miro açılımı, turuncu kolye, dev kadim kapı + "Onlar" gizemi) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
 | DK04_gizem_kapilari_B4_FINAL.mp4 | 🚪 GİZEM KAPILARI · Bölüm 4 — Kapı İçinde Kapı (67 sn; Miro kendi sesini duyar, dev kapıda minik kapı belirir, pençe uzanır, Onlar uyanıyor) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
@@ -69,3 +69,4 @@
 | Tarih | Video | Platformlar | Not |
 |---|---|---|---|
 | 2026-08-12 | (dosya adı doğrulanacak) | YouTube + TikTok + Instagram | Bugün 3 platformda 1 video paylaşıldı. Aynı gün 2. Shorts kararı: stok kesinleşmeden verilmeyecek. |
+| 2026-08-13 ~20:00 | 🚪 DK-01 GİZEM KAPILARI Bölüm 1 | YouTube (Meraklı Miro) | 🎉 KANALIN İLK VİDEOSU! Dizi lansmanı. Sonraki bölüm planı: her akşam 20:00 (B2 → 14 Ağustos). |
