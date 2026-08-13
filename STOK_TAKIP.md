@@ -69,4 +69,4 @@
 | Tarih | Video | Platformlar | Not |
 |---|---|---|---|
 | 2026-08-12 | (dosya adı doğrulanacak) | YouTube + TikTok + Instagram | Bugün 3 platformda 1 video paylaşıldı. Aynı gün 2. Shorts kararı: stok kesinleşmeden verilmeyecek. |
-| 2026-08-13 ~20:00 | 🚪 DK-01 GİZEM KAPILARI Bölüm 1 | YouTube (Meraklı Miro) | 🎉 KANALIN İLK VİDEOSU! Dizi lansmanı. Sonraki bölüm planı: her akşam 20:00 (B2 → 14 Ağustos). |
+| 2026-08-13 20:05 | 🚪 DK-01 GİZEM KAPILARI Bölüm 1 | YouTube (Meraklı Miro) | 🎉 KANALIN İLK VİDEOSU! Yayın başlığı (Ay Perisi düzenledi): "Miro'nun Odasında Gizemli Bir Kapı Açıldı! 😱✨ #Shorts". Not: B2'den itibaren başlığa "GİZEM KAPILARI Bölüm N" eklenecek (seri takibi). Sonraki: her akşam 20:00 (B2 → 14 Ağustos). |
