@@ -49,6 +49,7 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 | 2026-08-13 | YO-01 Yankı Odası (gizem dizisi B1): 11 GÖRSEL | **44 birim** | 0 | 496 (API) |
 | 2026-08-13 | DK-01 Duvarın İçindeki Kapı B1: 9+2 GÖRSEL (kolye+fular revizeleri dahil) | **44 birim** | 0 | **452** ✅ API ile doğrulandı |
 | 2026-08-13 | DK-02 Aynanın İçindeki Kapı B2 (GİZEM KAPILARI): 11 GÖRSEL | **44 birim** | 0 | **408** ✅ API ile doğrulandı |
+| 2026-08-13 | DK-03 Kapıların Bekçisi B3: 13 GÖRSEL (10 sahne + 3 revize; 2'si kullanılamadı = 8 birim fire, senaryoda dersi kayıtlı) | **52 birim** | 0 | **356** ✅ API ile doğrulandı |
 
 **🐾 İLGİNÇ HAYVANLAR SERİSİ kuruldu (Ay Perisi onayı):** #1 Donan Kurbağa · #2 Mantis Karidesi. Format: 40-47 sn belgesel, görsel+Ken Burns, imza ses tasarımı, YOK ARTIK slam. Bölüm maliyeti ~36 görsel birimi → kalan kredi ~24 bölüm daha çıkarır.
 
