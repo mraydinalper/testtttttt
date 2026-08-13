@@ -7,6 +7,7 @@
 - **Tür:** Mirket yavrusu (meerkat)
 - **İmza görünüm (İngilizce sabit tanım):** "an adorable 3D animated young meerkat character with big curious amber eyes, soft tan fur, a small green explorer scarf around its neck, expressive cartoon face, Pixar animation style"
 - **İmza aksesuar:** Yeşil kâşif fuları (asla değişmez)
+- **Sihirli eşya (13 Ağustos, Ay Perisi kararı — "kolye olsa daha iyi olur"):** Boynunda **hilal ay KOLYESİ** — gizem dizisinde parlayan eşya artık mendil/fular değil, bu kolye. Görsel promptlarda: "a small crescent moon pendant necklace glowing with soft magical emerald green light". İlk kullanım: DK-01.
 - **Hikâyesi:** Kolonisinden ayrılıp dünyanın en ilginç hayvanlarını keşfe çıkan meraklı minik kâşif.
 - **Karakteri:** Meraklı, iyimser, kolay şaşıran, hafif sakar. Asla kaba/korkutucu değil.
 - **İmza replikleri:** Açılış: "Bugün nereye gidiyoruz biliyor musun?" · Şok anı: "YOK ARTIK! Gerçekten mi?!" · Kapanış: "Sıradaki hayvanı tahmin et, yorumlara yaz!"

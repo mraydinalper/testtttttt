@@ -19,6 +19,7 @@
 | GY01_gece_yarisi_fragman.mp4 | GECE YARISI fragmanı — gizem dizisi işareti (38 sn, diyalogsuz sinematik) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
 | AX01_axolotl_FINAL.mp4 | Axolotl belgeseli — İLK GÖR VE DUY videosu (42 sn) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı → kanal açılışı adayı |
 | YO01_yanki_odasi_FINAL.mp4 | Yankı Odası — gizem dizisi Bölüm 1 (69 sn, DEVAM EDECEK) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Onay bekliyor |
+| DK01_duvarin_icindeki_kapi_FINAL.mp4 | Duvarın İçindeki Kapı — Ay Perisi hikâyesi, gizem dizisi (68 sn, ay kolyesi + DEVAM EDECEK) | Meraklı Miro | TR | ✅ | ✅ (depo) | — | — | — | Ay Perisi onayı bekliyor |
 | YA004_melas_seli.mp4 | 1919 Boston Melas Seli (tipografi hikâye, 33 sn) | Yok Artık | TR | ✅ | ✅ (depo) | Planlandı | Planlandı | Planlandı | 13 Ağustos 19:30 (TRT) üç platforma yayın — paket teslim edildi |
 
 ## 🟡 Ses Revizesi Bekleyenler

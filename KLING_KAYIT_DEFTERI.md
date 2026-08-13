@@ -45,6 +45,9 @@ Bu dosya, **"Yok Artık"** markalı içerik projesinin TÜM kayıtlarını tutar
 | 2026-08-13 | MM-04 Gök Gürültüsü: 10 GÖRSEL | **40 birim** | 0 | ~656 |
 | 2026-08-13 | GY-01 Gece Yarısı fragmanı: 6 GÖRSEL | **24 birim** | 0 | 632 (API) |
 | 2026-08-13 | MM-05 Gündüz Ayı (kanal açılış adayı): 11 GÖRSEL | **44 birim** | 0 | **588** |
+| 2026-08-13 | AX-01 Axolotl (ilk GÖR VE DUY) + yöntem örneği: 12 GÖRSEL | **48 birim** | 0 | 540 |
+| 2026-08-13 | YO-01 Yankı Odası (gizem dizisi B1): 11 GÖRSEL | **44 birim** | 0 | 496 (API) |
+| 2026-08-13 | DK-01 Duvarın İçindeki Kapı B1: 9+2 GÖRSEL (kolye+fular revizeleri dahil) | **44 birim** | 0 | **452** ✅ API ile doğrulandı |
 
 **🐾 İLGİNÇ HAYVANLAR SERİSİ kuruldu (Ay Perisi onayı):** #1 Donan Kurbağa · #2 Mantis Karidesi. Format: 40-47 sn belgesel, görsel+Ken Burns, imza ses tasarımı, YOK ARTIK slam. Bölüm maliyeti ~36 görsel birimi → kalan kredi ~24 bölüm daha çıkarır.
 
