@@ -43,3 +43,10 @@ Bölüm 2 kancası açık: kapının arkasındaki yaşlı Miro + iki yeşil göz
 - Altyazılar birinci ağza çevrildi; görseller, SFX ve DEVAM EDECEK kartı korundu; zaman çizelgesi yeni ses sürelerine göre yeniden hesaplandı.
 - Ses QC ✅: konuşma bitişi 59,3 sn · video 62,8 sn → 3,5 sn pay. Maliyet: 0 birim (yalnız TTS+kurgu).
 - Dizi formülü kalıcılaştı: kolye her parladığında yeni gizem açılır; bölüm açılışı = kolye parlaması. (Kurallara ve Miro kitine işlendi.)
+
+## 🚪 RESMİ DİZİ KAYDI — GİZEM KAPILARI · Bölüm 1 (13 Ağustos, Ay Perisi: "güzel olmuş" + "bu ilk bölüm yap kayıtlara geçelim")
+- **Dizi adı: MERAKLI MİRO — GİZEM KAPILARI.** Formül (Ay Perisi tanımı): **Kolye her yandığında yeni bir GİZEMLİ KAPI aralanır.** Her bölüm = yeni bir kapı, kapının arkasında yeni bir gizem.
+- Bu video dizinin **resmî Bölüm 1**'i: `videolar/DK01_gizem_kapilari_B1_FINAL.mp4` (62,8 sn). Açılışa dizi jeneriği kartı eklendi: "MERAKLI MİRO / GİZEM KAPILARI / Bölüm 1" (0,6–3,8 sn, yeşil, üst güvenli alan).
+- v2 dosyası bu jenerikli finalle değiştirildi (içerik aynı, sadece jenerik kartı eklendi). v1 (dış anlatıcılı) tarihçe olarak depoda.
+- Bölüm 2 kancası hazır: kapının arkasındaki yaşlı Miro + iki yeşil göz. Sonraki bölümlerde kolye farklı yer/zamanlarda parlayıp farklı kapılar açacak.
+- Not: YO-01 Yankı Odası bağımsız gizem hikâyesi olarak stokta kalır; resmî kapı dizisi DK-01 ile başlar.
