@@ -70,6 +70,11 @@ Her promptta zorunlu: ana karakter/nesne · tek net hareket · mekân · kamera 
 3. Diyalog yerine belgesel anlatımı (onaylı anlatıcı: Emel +25Hz +10% masalcı ton); "Nam!" gibi yansıma kelimeler YASAK.
 4. Final kalıbı: YOK ARTIK slam + "Sen de yok artık diyorsan… abone olmayı unutma!"
 
+**🐾 MİRO HİKÂYELERİ GÜNCELLEMESİ (13 Ağustos, DK-01 v2 ile — Ay Perisi talimatı):**
+1. **Karakter hikâyeyi KENDİ anlatır** — Miro birinci ağızdan ("kolyem parladı", "gözlerimi açtım"). Ses: Emel +25Hz, rate +12/+15% (heyecanlı anlar +15%, gizemli anlar +8%). Belgesel üçüncü şahıs anlatımı hayvan belgeselleri (Yok Artık/İH) için geçerli kalır.
+2. **Ay kolyesi = gizem tetikleyicisi:** Kolye her parladığında YENİ bir gizem açılır. Her gizem bölümü kolye parlamasıyla başlar — dizinin imza açılışı.
+3. **Çizgi film edası:** Pixar tarzı karakter animasyon görünümü; görsel promptlarda cartoon/Pixar style sabit. (Gerçek hareketli animasyon Kling VİDEO kredisi ister — paket alınırsa kilit sahneler canlandırılır; şimdilik görsel+Ken Burns.)
+
 ## Gerçeklik Kontrolü
 - Konu doğrulanmadan üretim yok; isim/tarih/mesafe/rekor/bilimsel iddia doğrulanır
 - Kesin olmayan bilgi kesinmiş gibi anlatılmaz; başlık gerçekle çelişmez

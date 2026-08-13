@@ -37,3 +37,9 @@ Gizem pad'i (82 Hz detune) baştan sona · sihirli çan motifi 1,2 sn (kolye par
 
 ## Yayın notu
 Bölüm 2 kancası açık: kapının arkasındaki yaşlı Miro + iki yeşil göz. YO-01 ile aynı dizi çatısında sıralanabilir (öneri: YO-01 → DK-01). Paketle komutuyla üç platform bloğu hazırlanır.
+
+## v2 — MİRO ANLATIYOR (13 Ağustos, Ay Perisi talimatları: "karakter hikayeyi anlatacak" + "her parladığında başka gizem" + "çizgifilm edası")
+- `videolar/DK01_v2_miro_anlatiyor.mp4` · 62,8 sn · 12 segment birinci ağızdan yeniden seslendirildi (Emel +25Hz, +8/+12/+15%): "ay kolyem parlamaya başladı", "gözlerimi açtığımda", "benim resmim vardı... resimdeki ben çok daha yaşlıydım", "kendi sesimi duydum", "Peki sence açmalı mıyım?"
+- Altyazılar birinci ağza çevrildi; görseller, SFX ve DEVAM EDECEK kartı korundu; zaman çizelgesi yeni ses sürelerine göre yeniden hesaplandı.
+- Ses QC ✅: konuşma bitişi 59,3 sn · video 62,8 sn → 3,5 sn pay. Maliyet: 0 birim (yalnız TTS+kurgu).
+- Dizi formülü kalıcılaştı: kolye her parladığında yeni gizem açılır; bölüm açılışı = kolye parlaması. (Kurallara ve Miro kitine işlendi.)
